@@ -1,2 +1,4 @@
 # Myfirst
-My first repository
+My First Git Repository
+<br>
+Jashwanth A Shetty
